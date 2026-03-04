@@ -12,7 +12,7 @@
   AI as Infrastructure — DevSecOps Agent
 ```
 
-![AII Demo](AI_as_Infrastructure_demo.gif)
+![AII Demo](AI_as_infrastructure_demo.gif)
 
 ---
 
