@@ -75,7 +75,7 @@ ChromaDB memory           →  learns from past incidents
 **1. Clone and install**
 
 ```powershell
-git clone https://github.com/Khalil-secure/AII
+git clone https://github.com/Khalil-secure/AI_as_infrastructure
 cd AII
 pip install -r requirements.txt
 pip install docker pyyaml
